@@ -6,4 +6,5 @@ data class NewsArticle (
     val url: String,
     val urlToImage: String
     val name: String
+    val petName: String
 )
