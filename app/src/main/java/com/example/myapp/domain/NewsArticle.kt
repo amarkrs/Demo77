@@ -4,7 +4,8 @@ data class NewsArticle (
     val title: String,
     val description: String,
     val url: String,
-    val urlToImage: String
-    val name: String
-    val petName: String
+    val urlToImage: String,
+    val name: String,
+    val petName: String,
+    val address: String
 )
